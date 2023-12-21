@@ -14,7 +14,7 @@ The objectives are the things we want to learn with this project:
 1. Repository operations
    1. Modify an existing file and
       1. 'add' to the staging area
-      1. 'commit'
+      1. 'commit' modifica
    1. Add a new file and ...
    1. "Send" the changes to the origin (`push`)
    1. "Check" if something has changed in the origin (`fetch`)
