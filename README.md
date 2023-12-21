@@ -4,7 +4,7 @@ CIAO
 This repo is a short guide to learning `git`. Check the [installation](#installation) section before proceeding further.
 
 ## Objectives
-
+MODIFICA
 The objectives are the things we want to learn with this project:
 
 1. Install `git` (see [installation](#installation) section)
