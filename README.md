@@ -27,7 +27,7 @@ The easiest and preferred way is to install the `Xcode Command Line Tools`. From
 1. open the `Terminal`
 1. run `git --version`
 
-If `git` is not installed already, a prompt will apper asking you to instal it.
+If `git` is not installed already, a prompt will appear asking you to instal it.
 
 Another method is to download the installer [here](https://git-scm.com/download/mac).
 
